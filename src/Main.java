@@ -12,5 +12,5 @@ public class Main {
         int finalBalance = initialBalance + addend + bonus;
         System.out.println("Итого:" + finalBalance);
         System.out.println("Бонус руб.: " + bonus);
-        }
     }
+}
